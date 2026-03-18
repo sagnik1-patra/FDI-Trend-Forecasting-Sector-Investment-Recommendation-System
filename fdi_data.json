@@ -1,0 +1,5762 @@
+[
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"Sl_No",
+        "FDI":"1"
+    },
+    {
+        "Sector":"Mining",
+        "Year":"Sl_No",
+        "FDI":"2"
+    },
+    {
+        "Sector":"Power",
+        "Year":"Sl_No",
+        "FDI":"3"
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"Sl_No",
+        "FDI":"4"
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"Sl_No",
+        "FDI":"5"
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"Sl_No",
+        "FDI":"6"
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"Sl_No",
+        "FDI":"7"
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"Sl_No",
+        "FDI":"8"
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"Sl_No",
+        "FDI":"9"
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"Sl_No",
+        "FDI":"10"
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"Sl_No",
+        "FDI":"11"
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"Sl_No",
+        "FDI":"12"
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"Sl_No",
+        "FDI":"13"
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"Sl_No",
+        "FDI":"14"
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"Sl_No",
+        "FDI":"15"
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"Sl_No",
+        "FDI":"16"
+    },
+    {
+        "Sector":"Ports",
+        "Year":"Sl_No",
+        "FDI":"17"
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"Sl_No",
+        "FDI":"18"
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"Sl_No",
+        "FDI":"19"
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"Sl_No",
+        "FDI":"20"
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"Sl_No",
+        "FDI":"21"
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"Sl_No",
+        "FDI":"22"
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"Sl_No",
+        "FDI":"23"
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"Sl_No",
+        "FDI":"24"
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"Sl_No",
+        "FDI":"25"
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"Sl_No",
+        "FDI":"26"
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"Sl_No",
+        "FDI":"27"
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"Sl_No",
+        "FDI":"28"
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"Sl_No",
+        "FDI":"29"
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"Sl_No",
+        "FDI":"30"
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"Sl_No",
+        "FDI":"31"
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"Sl_No",
+        "FDI":"32"
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"Sl_No",
+        "FDI":"33"
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"Sl_No",
+        "FDI":"34"
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"Sl_No",
+        "FDI":"35"
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"Sl_No",
+        "FDI":"36"
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"Sl_No",
+        "FDI":"37"
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"Sl_No",
+        "FDI":"38"
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"Sl_No",
+        "FDI":"39"
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"Sl_No",
+        "FDI":"40"
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"Sl_No",
+        "FDI":"41"
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"Sl_No",
+        "FDI":"42"
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"Sl_No",
+        "FDI":"43"
+    },
+    {
+        "Sector":"Glass",
+        "Year":"Sl_No",
+        "FDI":"44"
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"Sl_No",
+        "FDI":"45"
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"Sl_No",
+        "FDI":"46"
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"Sl_No",
+        "FDI":"47"
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"Sl_No",
+        "FDI":"48"
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"Sl_No",
+        "FDI":"49"
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"Sl_No",
+        "FDI":"50"
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"Sl_No",
+        "FDI":"51"
+    },
+    {
+        "Sector":"Education",
+        "Year":"Sl_No",
+        "FDI":"52"
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"Sl_No",
+        "FDI":"53"
+    },
+    {
+        "Sector":"Trading",
+        "Year":"Sl_No",
+        "FDI":"54"
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"Sl_No",
+        "FDI":"55"
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"Sl_No",
+        "FDI":"56"
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"Sl_No",
+        "FDI":"57"
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"Sl_No",
+        "FDI":"58"
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"Sl_No",
+        "FDI":"59"
+    },
+    {
+        "Sector":"Coir",
+        "Year":"Sl_No",
+        "FDI":"60"
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"Sl_No",
+        "FDI":"61"
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"Sl_No",
+        "FDI":"62"
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"Sl_No",
+        "FDI":"63"
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"Sl_No",
+        "FDI":"Total"
+    },
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"2000-01",
+        "FDI":22.69
+    },
+    {
+        "Sector":"Mining",
+        "Year":"2000-01",
+        "FDI":1.32
+    },
+    {
+        "Sector":"Power",
+        "Year":"2000-01",
+        "FDI":89.42
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"2000-01",
+        "FDI":9.35
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"2000-01",
+        "FDI":79.76
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"2000-01",
+        "FDI":228.39
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"2000-01",
+        "FDI":8.34
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"2000-01",
+        "FDI":177.69
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"2000-01",
+        "FDI":81.5
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"2000-01",
+        "FDI":195.33
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"2000-01",
+        "FDI":2.41
+    },
+    {
+        "Sector":"Ports",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"2000-01",
+        "FDI":5.48
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"2000-01",
+        "FDI":1.42
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"2000-01",
+        "FDI":3.64
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"2000-01",
+        "FDI":44.5
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"2000-01",
+        "FDI":12.2
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"2000-01",
+        "FDI":5.42
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"2000-01",
+        "FDI":1.01
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"2000-01",
+        "FDI":8.07
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"2000-01",
+        "FDI":111.14
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"2000-01",
+        "FDI":1.05
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"2000-01",
+        "FDI":35.94
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"2000-01",
+        "FDI":2.06
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"2000-01",
+        "FDI":60.04
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"2000-01",
+        "FDI":16.02
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"2000-01",
+        "FDI":45.75
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"2000-01",
+        "FDI":0.1
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"2000-01",
+        "FDI":9.75
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Glass",
+        "Year":"2000-01",
+        "FDI":33.87
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"2000-01",
+        "FDI":4.03
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"2000-01",
+        "FDI":67.72
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"2000-01",
+        "FDI":4.25
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"2000-01",
+        "FDI":71.38
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Education",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"2000-01",
+        "FDI":13.2
+    },
+    {
+        "Sector":"Trading",
+        "Year":"2000-01",
+        "FDI":11.49
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"2000-01",
+        "FDI":17.52
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"2000-01",
+        "FDI":18.83
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"2000-01",
+        "FDI":20.23
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Coir",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"2000-01",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"2000-01",
+        "FDI":24.33
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"2000-01",
+        "FDI":832.07
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"2000-01",
+        "FDI":2378.68
+    },
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"2001-02",
+        "FDI":14.14
+    },
+    {
+        "Sector":"Mining",
+        "Year":"2001-02",
+        "FDI":6.52
+    },
+    {
+        "Sector":"Power",
+        "Year":"2001-02",
+        "FDI":757.44
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"2001-02",
+        "FDI":211.07
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"2001-02",
+        "FDI":65.76
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"2001-02",
+        "FDI":419.39
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"2001-02",
+        "FDI":12.47
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"2001-02",
+        "FDI":873.23
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"2001-02",
+        "FDI":4.54
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"2001-02",
+        "FDI":235.76
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"2001-02",
+        "FDI":19.81
+    },
+    {
+        "Sector":"Ports",
+        "Year":"2001-02",
+        "FDI":15.48
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"2001-02",
+        "FDI":32.04
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"2001-02",
+        "FDI":4.31
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"2001-02",
+        "FDI":1.04
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"2001-02",
+        "FDI":0.11
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"2001-02",
+        "FDI":61.4
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"2001-02",
+        "FDI":4.87
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"2001-02",
+        "FDI":42.35
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"2001-02",
+        "FDI":5.07
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"2001-02",
+        "FDI":2.33
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"2001-02",
+        "FDI":87.23
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"2001-02",
+        "FDI":0.18
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"2001-02",
+        "FDI":77.94
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"2001-02",
+        "FDI":5.28
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"2001-02",
+        "FDI":16.7
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"2001-02",
+        "FDI":11.04
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"2001-02",
+        "FDI":219.39
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"2001-02",
+        "FDI":46.39
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"2001-02",
+        "FDI":0.2
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"2001-02",
+        "FDI":0.94
+    },
+    {
+        "Sector":"Glass",
+        "Year":"2001-02",
+        "FDI":8.37
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"2001-02",
+        "FDI":0.78
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"2001-02",
+        "FDI":139.9
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"2001-02",
+        "FDI":0.05
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"2001-02",
+        "FDI":66.22
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"2001-02",
+        "FDI":187.95
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"2001-02",
+        "FDI":6.93
+    },
+    {
+        "Sector":"Education",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"2001-02",
+        "FDI":32.12
+    },
+    {
+        "Sector":"Trading",
+        "Year":"2001-02",
+        "FDI":43.27
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"2001-02",
+        "FDI":14.06
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"2001-02",
+        "FDI":0.36
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"2001-02",
+        "FDI":0.14
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Coir",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"2001-02",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"2001-02",
+        "FDI":51.75
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"2001-02",
+        "FDI":221.37
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"2001-02",
+        "FDI":4027.69
+    },
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"2002-03",
+        "FDI":36.61
+    },
+    {
+        "Sector":"Mining",
+        "Year":"2002-03",
+        "FDI":10.06
+    },
+    {
+        "Sector":"Power",
+        "Year":"2002-03",
+        "FDI":59.11
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"2002-03",
+        "FDI":1.7
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"2002-03",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"2002-03",
+        "FDI":56.78
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"2002-03",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"2002-03",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"2002-03",
+        "FDI":34.71
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"2002-03",
+        "FDI":314.24
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"2002-03",
+        "FDI":295.88
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"2002-03",
+        "FDI":191.6
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"2002-03",
+        "FDI":36.5
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"2002-03",
+        "FDI":419.96
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"2002-03",
+        "FDI":3.8
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"2002-03",
+        "FDI":29.32
+    },
+    {
+        "Sector":"Ports",
+        "Year":"2002-03",
+        "FDI":2.03
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"2002-03",
+        "FDI":0.56
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"2002-03",
+        "FDI":19.4
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"2002-03",
+        "FDI":14.17
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"2002-03",
+        "FDI":13.48
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"2002-03",
+        "FDI":13.77
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"2002-03",
+        "FDI":45.07
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"2002-03",
+        "FDI":2.33
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"2002-03",
+        "FDI":21.63
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"2002-03",
+        "FDI":1.31
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"2002-03",
+        "FDI":0.19
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"2002-03",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"2002-03",
+        "FDI":16.38
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"2002-03",
+        "FDI":128.12
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"2002-03",
+        "FDI":0.6
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"2002-03",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"2002-03",
+        "FDI":40.07
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"2002-03",
+        "FDI":54.18
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"2002-03",
+        "FDI":7.36
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"2002-03",
+        "FDI":3.97
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"2002-03",
+        "FDI":8.07
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"2002-03",
+        "FDI":36.88
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"2002-03",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"2002-03",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"2002-03",
+        "FDI":16.42
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"2002-03",
+        "FDI":0.01
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"2002-03",
+        "FDI":5.22
+    },
+    {
+        "Sector":"Glass",
+        "Year":"2002-03",
+        "FDI":44.98
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"2002-03",
+        "FDI":0.21
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"2002-03",
+        "FDI":21.08
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"2002-03",
+        "FDI":0.04
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"2002-03",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"2002-03",
+        "FDI":25.7
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"2002-03",
+        "FDI":296.34
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"2002-03",
+        "FDI":29.13
+    },
+    {
+        "Sector":"Education",
+        "Year":"2002-03",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"2002-03",
+        "FDI":33.75
+    },
+    {
+        "Sector":"Trading",
+        "Year":"2002-03",
+        "FDI":38.13
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"2002-03",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"2002-03",
+        "FDI":11.01
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"2002-03",
+        "FDI":1.3
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"2002-03",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"2002-03",
+        "FDI":6.3
+    },
+    {
+        "Sector":"Coir",
+        "Year":"2002-03",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"2002-03",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"2002-03",
+        "FDI":36.1
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"2002-03",
+        "FDI":218.76
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"2002-03",
+        "FDI":2704.34
+    },
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"2003-04",
+        "FDI":8.11
+    },
+    {
+        "Sector":"Mining",
+        "Year":"2003-04",
+        "FDI":23.48
+    },
+    {
+        "Sector":"Power",
+        "Year":"2003-04",
+        "FDI":27.09
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"2003-04",
+        "FDI":4.14
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"2003-04",
+        "FDI":0.04
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"2003-04",
+        "FDI":80.64
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"2003-04",
+        "FDI":0.04
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"2003-04",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"2003-04",
+        "FDI":73.2
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"2003-04",
+        "FDI":368.32
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"2003-04",
+        "FDI":82.31
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"2003-04",
+        "FDI":86.49
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"2003-04",
+        "FDI":13.72
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"2003-04",
+        "FDI":119.09
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"2003-04",
+        "FDI":0.94
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"2003-04",
+        "FDI":21.95
+    },
+    {
+        "Sector":"Ports",
+        "Year":"2003-04",
+        "FDI":116.36
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"2003-04",
+        "FDI":2.95
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"2003-04",
+        "FDI":3.18
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"2003-04",
+        "FDI":54.51
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"2003-04",
+        "FDI":47.54
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"2003-04",
+        "FDI":0.01
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"2003-04",
+        "FDI":22.73
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"2003-04",
+        "FDI":10.41
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"2003-04",
+        "FDI":1.97
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"2003-04",
+        "FDI":0.3
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"2003-04",
+        "FDI":0.02
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"2003-04",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"2003-04",
+        "FDI":21.58
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"2003-04",
+        "FDI":20.24
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"2003-04",
+        "FDI":0.24
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"2003-04",
+        "FDI":0.43
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"2003-04",
+        "FDI":108.91
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"2003-04",
+        "FDI":9.34
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"2003-04",
+        "FDI":7.15
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"2003-04",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"2003-04",
+        "FDI":1.7
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"2003-04",
+        "FDI":109.22
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"2003-04",
+        "FDI":1.69
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"2003-04",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"2003-04",
+        "FDI":6.37
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"2003-04",
+        "FDI":7.55
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"2003-04",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Glass",
+        "Year":"2003-04",
+        "FDI":5.24
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"2003-04",
+        "FDI":1.47
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"2003-04",
+        "FDI":9.58
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"2003-04",
+        "FDI":0.11
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"2003-04",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"2003-04",
+        "FDI":46.2
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"2003-04",
+        "FDI":271.15
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"2003-04",
+        "FDI":24.08
+    },
+    {
+        "Sector":"Education",
+        "Year":"2003-04",
+        "FDI":0.19
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"2003-04",
+        "FDI":49.36
+    },
+    {
+        "Sector":"Trading",
+        "Year":"2003-04",
+        "FDI":31.12
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"2003-04",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"2003-04",
+        "FDI":0.59
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"2003-04",
+        "FDI":1.96
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"2003-04",
+        "FDI":0.32
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"2003-04",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Coir",
+        "Year":"2003-04",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"2003-04",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"2003-04",
+        "FDI":47.04
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"2003-04",
+        "FDI":235.48
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"2003-04",
+        "FDI":2187.85
+    },
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"2004-05",
+        "FDI":200.38
+    },
+    {
+        "Sector":"Mining",
+        "Year":"2004-05",
+        "FDI":9.92
+    },
+    {
+        "Sector":"Power",
+        "Year":"2004-05",
+        "FDI":43.37
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"2004-05",
+        "FDI":1.27
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"2004-05",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"2004-05",
+        "FDI":102.78
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"2004-05",
+        "FDI":0.54
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"2004-05",
+        "FDI":2.66
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"2004-05",
+        "FDI":97.4
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"2004-05",
+        "FDI":527.9
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"2004-05",
+        "FDI":88.1
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"2004-05",
+        "FDI":118.33
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"2004-05",
+        "FDI":9.85
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"2004-05",
+        "FDI":121.97
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"2004-05",
+        "FDI":4.11
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"2004-05",
+        "FDI":36.95
+    },
+    {
+        "Sector":"Ports",
+        "Year":"2004-05",
+        "FDI":13.04
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"2004-05",
+        "FDI":10.75
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"2004-05",
+        "FDI":8.89
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"2004-05",
+        "FDI":11.04
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"2004-05",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"2004-05",
+        "FDI":0.1
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"2004-05",
+        "FDI":12.83
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"2004-05",
+        "FDI":14.13
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"2004-05",
+        "FDI":5.35
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"2004-05",
+        "FDI":1.08
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"2004-05",
+        "FDI":0.03
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"2004-05",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"2004-05",
+        "FDI":13.46
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"2004-05",
+        "FDI":69.39
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"2004-05",
+        "FDI":6.16
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"2004-05",
+        "FDI":1.18
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"2004-05",
+        "FDI":293.36
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"2004-05",
+        "FDI":43.04
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"2004-05",
+        "FDI":2.7
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"2004-05",
+        "FDI":2.94
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"2004-05",
+        "FDI":139.0
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"2004-05",
+        "FDI":43.98
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"2004-05",
+        "FDI":9.09
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"2004-05",
+        "FDI":0.89
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"2004-05",
+        "FDI":40.06
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"2004-05",
+        "FDI":0.44
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"2004-05",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Glass",
+        "Year":"2004-05",
+        "FDI":8.36
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"2004-05",
+        "FDI":26.79
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"2004-05",
+        "FDI":0.16
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"2004-05",
+        "FDI":0.07
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"2004-05",
+        "FDI":0.05
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"2004-05",
+        "FDI":252.42
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"2004-05",
+        "FDI":456.15
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"2004-05",
+        "FDI":26.19
+    },
+    {
+        "Sector":"Education",
+        "Year":"2004-05",
+        "FDI":1.97
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"2004-05",
+        "FDI":37.01
+    },
+    {
+        "Sector":"Trading",
+        "Year":"2004-05",
+        "FDI":14.22
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"2004-05",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"2004-05",
+        "FDI":3.83
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"2004-05",
+        "FDI":8.58
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"2004-05",
+        "FDI":0.01
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"2004-05",
+        "FDI":0.06
+    },
+    {
+        "Sector":"Coir",
+        "Year":"2004-05",
+        "FDI":0.47
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"2004-05",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"2004-05",
+        "FDI":152.06
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"2004-05",
+        "FDI":121.83
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"2004-05",
+        "FDI":3218.69
+    },
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"2005-06",
+        "FDI":149.13
+    },
+    {
+        "Sector":"Mining",
+        "Year":"2005-06",
+        "FDI":7.4
+    },
+    {
+        "Sector":"Power",
+        "Year":"2005-06",
+        "FDI":72.69
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"2005-06",
+        "FDI":1.35
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"2005-06",
+        "FDI":9.14
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"2005-06",
+        "FDI":12.09
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"2005-06",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"2005-06",
+        "FDI":0.74
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"2005-06",
+        "FDI":39.5
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"2005-06",
+        "FDI":1359.97
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"2005-06",
+        "FDI":40.91
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"2005-06",
+        "FDI":617.98
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"2005-06",
+        "FDI":55.93
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"2005-06",
+        "FDI":139.93
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"2005-06",
+        "FDI":10.27
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"2005-06",
+        "FDI":53.63
+    },
+    {
+        "Sector":"Ports",
+        "Year":"2005-06",
+        "FDI":0.5
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"2005-06",
+        "FDI":22.62
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"2005-06",
+        "FDI":42.8
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"2005-06",
+        "FDI":23.0
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"2005-06",
+        "FDI":92.71
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"2005-06",
+        "FDI":50.87
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"2005-06",
+        "FDI":51.22
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"2005-06",
+        "FDI":25.54
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"2005-06",
+        "FDI":1.52
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"2005-06",
+        "FDI":0.38
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"2005-06",
+        "FDI":0.1
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"2005-06",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"2005-06",
+        "FDI":4.24
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"2005-06",
+        "FDI":387.72
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"2005-06",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"2005-06",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"2005-06",
+        "FDI":172.44
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"2005-06",
+        "FDI":94.33
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"2005-06",
+        "FDI":27.38
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"2005-06",
+        "FDI":3.0
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"2005-06",
+        "FDI":169.83
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"2005-06",
+        "FDI":41.74
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"2005-06",
+        "FDI":12.31
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"2005-06",
+        "FDI":87.42
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"2005-06",
+        "FDI":34.09
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"2005-06",
+        "FDI":1.11
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"2005-06",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Glass",
+        "Year":"2005-06",
+        "FDI":0.81
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"2005-06",
+        "FDI":5.67
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"2005-06",
+        "FDI":452.08
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"2005-06",
+        "FDI":0.33
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"2005-06",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"2005-06",
+        "FDI":47.4
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"2005-06",
+        "FDI":548.61
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"2005-06",
+        "FDI":32.53
+    },
+    {
+        "Sector":"Education",
+        "Year":"2005-06",
+        "FDI":3.16
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"2005-06",
+        "FDI":71.78
+    },
+    {
+        "Sector":"Trading",
+        "Year":"2005-06",
+        "FDI":28.93
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"2005-06",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"2005-06",
+        "FDI":9.08
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"2005-06",
+        "FDI":15.52
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"2005-06",
+        "FDI":1.43
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"2005-06",
+        "FDI":9.9
+    },
+    {
+        "Sector":"Coir",
+        "Year":"2005-06",
+        "FDI":0.59
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"2005-06",
+        "FDI":0.93
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"2005-06",
+        "FDI":228.71
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"2005-06",
+        "FDI":164.76
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"2005-06",
+        "FDI":5539.72
+    },
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"2006-07",
+        "FDI":169.94
+    },
+    {
+        "Sector":"Mining",
+        "Year":"2006-07",
+        "FDI":6.62
+    },
+    {
+        "Sector":"Power",
+        "Year":"2006-07",
+        "FDI":157.15
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"2006-07",
+        "FDI":2.44
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"2006-07",
+        "FDI":1.3
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"2006-07",
+        "FDI":87.71
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"2006-07",
+        "FDI":3.31
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"2006-07",
+        "FDI":25.57
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"2006-07",
+        "FDI":76.85
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"2006-07",
+        "FDI":2613.33
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"2006-07",
+        "FDI":42.14
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"2006-07",
+        "FDI":476.51
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"2006-07",
+        "FDI":75.7
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"2006-07",
+        "FDI":260.72
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"2006-07",
+        "FDI":62.29
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"2006-07",
+        "FDI":72.52
+    },
+    {
+        "Sector":"Ports",
+        "Year":"2006-07",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"2006-07",
+        "FDI":25.82
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"2006-07",
+        "FDI":25.96
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"2006-07",
+        "FDI":37.28
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"2006-07",
+        "FDI":25.19
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"2006-07",
+        "FDI":0.99
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"2006-07",
+        "FDI":84.44
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"2006-07",
+        "FDI":5.42
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"2006-07",
+        "FDI":13.43
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"2006-07",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"2006-07",
+        "FDI":0.07
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"2006-07",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"2006-07",
+        "FDI":5.01
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"2006-07",
+        "FDI":138.85
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"2006-07",
+        "FDI":2.81
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"2006-07",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"2006-07",
+        "FDI":224.2
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"2006-07",
+        "FDI":126.9
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"2006-07",
+        "FDI":5.08
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"2006-07",
+        "FDI":9.85
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"2006-07",
+        "FDI":27.58
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"2006-07",
+        "FDI":102.0
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"2006-07",
+        "FDI":16.22
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"2006-07",
+        "FDI":6.04
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"2006-07",
+        "FDI":18.75
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"2006-07",
+        "FDI":8.26
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"2006-07",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Glass",
+        "Year":"2006-07",
+        "FDI":1.43
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"2006-07",
+        "FDI":122.23
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"2006-07",
+        "FDI":242.47
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"2006-07",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"2006-07",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"2006-07",
+        "FDI":114.68
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"2006-07",
+        "FDI":4713.78
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"2006-07",
+        "FDI":38.14
+    },
+    {
+        "Sector":"Education",
+        "Year":"2006-07",
+        "FDI":41.81
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"2006-07",
+        "FDI":195.66
+    },
+    {
+        "Sector":"Trading",
+        "Year":"2006-07",
+        "FDI":114.65
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"2006-07",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"2006-07",
+        "FDI":12.53
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"2006-07",
+        "FDI":61.97
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"2006-07",
+        "FDI":6.2
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"2006-07",
+        "FDI":20.04
+    },
+    {
+        "Sector":"Coir",
+        "Year":"2006-07",
+        "FDI":0.04
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"2006-07",
+        "FDI":64.06
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"2006-07",
+        "FDI":1392.95
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"2006-07",
+        "FDI":304.87
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"2006-07",
+        "FDI":12491.77
+    },
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"2007-08",
+        "FDI":1175.75
+    },
+    {
+        "Sector":"Mining",
+        "Year":"2007-08",
+        "FDI":444.36
+    },
+    {
+        "Sector":"Power",
+        "Year":"2007-08",
+        "FDI":988.68
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"2007-08",
+        "FDI":58.82
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"2007-08",
+        "FDI":14.08
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"2007-08",
+        "FDI":1405.04
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"2007-08",
+        "FDI":1.51
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"2007-08",
+        "FDI":40.53
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"2007-08",
+        "FDI":653.74
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"2007-08",
+        "FDI":1382.25
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"2007-08",
+        "FDI":136.03
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"2007-08",
+        "FDI":1260.7
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"2007-08",
+        "FDI":288.49
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"2007-08",
+        "FDI":656.1
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"2007-08",
+        "FDI":99.08
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"2007-08",
+        "FDI":128.36
+    },
+    {
+        "Sector":"Ports",
+        "Year":"2007-08",
+        "FDI":918.18
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"2007-08",
+        "FDI":12.41
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"2007-08",
+        "FDI":119.57
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"2007-08",
+        "FDI":56.87
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"2007-08",
+        "FDI":6.72
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"2007-08",
+        "FDI":67.94
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"2007-08",
+        "FDI":211.15
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"2007-08",
+        "FDI":9.83
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"2007-08",
+        "FDI":13.17
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"2007-08",
+        "FDI":2.23
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"2007-08",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"2007-08",
+        "FDI":1.27
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"2007-08",
+        "FDI":1.95
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"2007-08",
+        "FDI":233.7
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"2007-08",
+        "FDI":54.86
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"2007-08",
+        "FDI":5.51
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"2007-08",
+        "FDI":340.35
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"2007-08",
+        "FDI":185.4
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"2007-08",
+        "FDI":31.24
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"2007-08",
+        "FDI":10.07
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"2007-08",
+        "FDI":270.05
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"2007-08",
+        "FDI":70.17
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"2007-08",
+        "FDI":1.53
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"2007-08",
+        "FDI":6.38
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"2007-08",
+        "FDI":15.12
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"2007-08",
+        "FDI":7.46
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"2007-08",
+        "FDI":2.28
+    },
+    {
+        "Sector":"Glass",
+        "Year":"2007-08",
+        "FDI":11.04
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"2007-08",
+        "FDI":115.11
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"2007-08",
+        "FDI":16.89
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"2007-08",
+        "FDI":0.39
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"2007-08",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"2007-08",
+        "FDI":233.32
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"2007-08",
+        "FDI":6986.17
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"2007-08",
+        "FDI":241.76
+    },
+    {
+        "Sector":"Education",
+        "Year":"2007-08",
+        "FDI":43.59
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"2007-08",
+        "FDI":421.47
+    },
+    {
+        "Sector":"Trading",
+        "Year":"2007-08",
+        "FDI":345.02
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"2007-08",
+        "FDI":1.27
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"2007-08",
+        "FDI":58.13
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"2007-08",
+        "FDI":59.15
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"2007-08",
+        "FDI":18.94
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"2007-08",
+        "FDI":35.54
+    },
+    {
+        "Sector":"Coir",
+        "Year":"2007-08",
+        "FDI":0.01
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"2007-08",
+        "FDI":182.92
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"2007-08",
+        "FDI":3887.33
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"2007-08",
+        "FDI":528.42
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"2007-08",
+        "FDI":24575.43
+    },
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"2008-09",
+        "FDI":959.94
+    },
+    {
+        "Sector":"Mining",
+        "Year":"2008-09",
+        "FDI":34.16
+    },
+    {
+        "Sector":"Power",
+        "Year":"2008-09",
+        "FDI":907.66
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"2008-09",
+        "FDI":125.88
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"2008-09",
+        "FDI":0.22
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"2008-09",
+        "FDI":349.29
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"2008-09",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"2008-09",
+        "FDI":74.88
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"2008-09",
+        "FDI":417.35
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"2008-09",
+        "FDI":1543.34
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"2008-09",
+        "FDI":147.51
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"2008-09",
+        "FDI":2548.63
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"2008-09",
+        "FDI":735.04
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"2008-09",
+        "FDI":1150.03
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"2008-09",
+        "FDI":61.37
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"2008-09",
+        "FDI":50.21
+    },
+    {
+        "Sector":"Ports",
+        "Year":"2008-09",
+        "FDI":493.15
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"2008-09",
+        "FDI":18.01
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"2008-09",
+        "FDI":110.54
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"2008-09",
+        "FDI":45.66
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"2008-09",
+        "FDI":5.57
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"2008-09",
+        "FDI":2.27
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"2008-09",
+        "FDI":142.31
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"2008-09",
+        "FDI":12.63
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"2008-09",
+        "FDI":75.42
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"2008-09",
+        "FDI":17.48
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"2008-09",
+        "FDI":0.83
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"2008-09",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"2008-09",
+        "FDI":133.75
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"2008-09",
+        "FDI":651.22
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"2008-09",
+        "FDI":1.05
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"2008-09",
+        "FDI":1.17
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"2008-09",
+        "FDI":4246.76
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"2008-09",
+        "FDI":157.52
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"2008-09",
+        "FDI":272.51
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"2008-09",
+        "FDI":5.01
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"2008-09",
+        "FDI":144.7
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"2008-09",
+        "FDI":102.71
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"2008-09",
+        "FDI":42.88
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"2008-09",
+        "FDI":22.03
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"2008-09",
+        "FDI":84.88
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"2008-09",
+        "FDI":3.32
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"2008-09",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Glass",
+        "Year":"2008-09",
+        "FDI":23.16
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"2008-09",
+        "FDI":198.43
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"2008-09",
+        "FDI":724.8
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"2008-09",
+        "FDI":11.27
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"2008-09",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"2008-09",
+        "FDI":256.59
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"2008-09",
+        "FDI":6183.49
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"2008-09",
+        "FDI":239.71
+    },
+    {
+        "Sector":"Education",
+        "Year":"2008-09",
+        "FDI":214.52
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"2008-09",
+        "FDI":463.92
+    },
+    {
+        "Sector":"Trading",
+        "Year":"2008-09",
+        "FDI":643.64
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"2008-09",
+        "FDI":0.09
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"2008-09",
+        "FDI":5.35
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"2008-09",
+        "FDI":83.5
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"2008-09",
+        "FDI":37.08
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"2008-09",
+        "FDI":31.61
+    },
+    {
+        "Sector":"Coir",
+        "Year":"2008-09",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"2008-09",
+        "FDI":172.7
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"2008-09",
+        "FDI":4657.51
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"2008-09",
+        "FDI":1549.7
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"2008-09",
+        "FDI":31395.97
+    },
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"2009-10",
+        "FDI":419.88
+    },
+    {
+        "Sector":"Mining",
+        "Year":"2009-10",
+        "FDI":174.4
+    },
+    {
+        "Sector":"Power",
+        "Year":"2009-10",
+        "FDI":1271.79
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"2009-10",
+        "FDI":622.52
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"2009-10",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"2009-10",
+        "FDI":265.53
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"2009-10",
+        "FDI":3.96
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"2009-10",
+        "FDI":39.5
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"2009-10",
+        "FDI":728.27
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"2009-10",
+        "FDI":871.86
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"2009-10",
+        "FDI":52.14
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"2009-10",
+        "FDI":2539.26
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"2009-10",
+        "FDI":490.83
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"2009-10",
+        "FDI":1236.29
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"2009-10",
+        "FDI":23.71
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"2009-10",
+        "FDI":284.85
+    },
+    {
+        "Sector":"Ports",
+        "Year":"2009-10",
+        "FDI":65.41
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"2009-10",
+        "FDI":34.43
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"2009-10",
+        "FDI":341.88
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"2009-10",
+        "FDI":133.83
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"2009-10",
+        "FDI":1.88
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"2009-10",
+        "FDI":15.62
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"2009-10",
+        "FDI":149.59
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"2009-10",
+        "FDI":78.98
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"2009-10",
+        "FDI":167.35
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"2009-10",
+        "FDI":7.61
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"2009-10",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"2009-10",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"2009-10",
+        "FDI":8.2
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"2009-10",
+        "FDI":365.94
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"2009-10",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"2009-10",
+        "FDI":4.02
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"2009-10",
+        "FDI":213.08
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"2009-10",
+        "FDI":150.27
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"2009-10",
+        "FDI":16.42
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"2009-10",
+        "FDI":0.1
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"2009-10",
+        "FDI":112.02
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"2009-10",
+        "FDI":278.89
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"2009-10",
+        "FDI":69.74
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"2009-10",
+        "FDI":24.58
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"2009-10",
+        "FDI":24.12
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"2009-10",
+        "FDI":5.06
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"2009-10",
+        "FDI":0.27
+    },
+    {
+        "Sector":"Glass",
+        "Year":"2009-10",
+        "FDI":2.83
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"2009-10",
+        "FDI":7.21
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"2009-10",
+        "FDI":33.8
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"2009-10",
+        "FDI":6.54
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"2009-10",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"2009-10",
+        "FDI":341.31
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"2009-10",
+        "FDI":4174.53
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"2009-10",
+        "FDI":135.57
+    },
+    {
+        "Sector":"Education",
+        "Year":"2009-10",
+        "FDI":63.35
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"2009-10",
+        "FDI":753.02
+    },
+    {
+        "Sector":"Trading",
+        "Year":"2009-10",
+        "FDI":737.95
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"2009-10",
+        "FDI":13.73
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"2009-10",
+        "FDI":1222.22
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"2009-10",
+        "FDI":31.08
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"2009-10",
+        "FDI":8.15
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"2009-10",
+        "FDI":70.51
+    },
+    {
+        "Sector":"Coir",
+        "Year":"2009-10",
+        "FDI":0.25
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"2009-10",
+        "FDI":324.56
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"2009-10",
+        "FDI":5466.13
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"2009-10",
+        "FDI":1147.56
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"2009-10",
+        "FDI":25834.41
+    },
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"2010-11",
+        "FDI":1098.14
+    },
+    {
+        "Sector":"Mining",
+        "Year":"2010-11",
+        "FDI":79.51
+    },
+    {
+        "Sector":"Power",
+        "Year":"2010-11",
+        "FDI":1271.77
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"2010-11",
+        "FDI":214.4
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"2010-11",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"2010-11",
+        "FDI":556.43
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"2010-11",
+        "FDI":0.63
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"2010-11",
+        "FDI":166.44
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"2010-11",
+        "FDI":153.9
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"2010-11",
+        "FDI":779.81
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"2010-11",
+        "FDI":59.72
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"2010-11",
+        "FDI":1664.5
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"2010-11",
+        "FDI":412.11
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"2010-11",
+        "FDI":1299.41
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"2010-11",
+        "FDI":136.6
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"2010-11",
+        "FDI":300.51
+    },
+    {
+        "Sector":"Ports",
+        "Year":"2010-11",
+        "FDI":10.92
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"2010-11",
+        "FDI":70.66
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"2010-11",
+        "FDI":467.92
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"2010-11",
+        "FDI":11.63
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"2010-11",
+        "FDI":0.49
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"2010-11",
+        "FDI":1.77
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"2010-11",
+        "FDI":108.67
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"2010-11",
+        "FDI":25.12
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"2010-11",
+        "FDI":32.22
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"2010-11",
+        "FDI":25.48
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"2010-11",
+        "FDI":2.49
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"2010-11",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"2010-11",
+        "FDI":18.18
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"2010-11",
+        "FDI":2354.4
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"2010-11",
+        "FDI":0.81
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"2010-11",
+        "FDI":5.37
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"2010-11",
+        "FDI":209.38
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"2010-11",
+        "FDI":129.65
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"2010-11",
+        "FDI":6.53
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"2010-11",
+        "FDI":0.17
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"2010-11",
+        "FDI":57.71
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"2010-11",
+        "FDI":188.67
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"2010-11",
+        "FDI":58.07
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"2010-11",
+        "FDI":102.9
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"2010-11",
+        "FDI":17.21
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"2010-11",
+        "FDI":9.26
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"2010-11",
+        "FDI":0.01
+    },
+    {
+        "Sector":"Glass",
+        "Year":"2010-11",
+        "FDI":7.6
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"2010-11",
+        "FDI":12.0
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"2010-11",
+        "FDI":637.68
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"2010-11",
+        "FDI":1.58
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"2010-11",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"2010-11",
+        "FDI":274.84
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"2010-11",
+        "FDI":3296.09
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"2010-11",
+        "FDI":256.0
+    },
+    {
+        "Sector":"Education",
+        "Year":"2010-11",
+        "FDI":37.94
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"2010-11",
+        "FDI":308.05
+    },
+    {
+        "Sector":"Trading",
+        "Year":"2010-11",
+        "FDI":498.04
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"2010-11",
+        "FDI":26.27
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"2010-11",
+        "FDI":43.9
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"2010-11",
+        "FDI":19.59
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"2010-11",
+        "FDI":3.12
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"2010-11",
+        "FDI":36.63
+    },
+    {
+        "Sector":"Coir",
+        "Year":"2010-11",
+        "FDI":0.1
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"2010-11",
+        "FDI":675.07
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"2010-11",
+        "FDI":1663.03
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"2010-11",
+        "FDI":1475.97
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"2010-11",
+        "FDI":21383.05
+    },
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"2011-12",
+        "FDI":1786.14
+    },
+    {
+        "Sector":"Mining",
+        "Year":"2011-12",
+        "FDI":142.65
+    },
+    {
+        "Sector":"Power",
+        "Year":"2011-12",
+        "FDI":1652.38
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"2011-12",
+        "FDI":452.17
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"2011-12",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"2011-12",
+        "FDI":2029.98
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"2011-12",
+        "FDI":31.79
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"2011-12",
+        "FDI":313.75
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"2011-12",
+        "FDI":566.39
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"2011-12",
+        "FDI":796.35
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"2011-12",
+        "FDI":194.41
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"2011-12",
+        "FDI":1997.24
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"2011-12",
+        "FDI":675.96
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"2011-12",
+        "FDI":922.99
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"2011-12",
+        "FDI":31.22
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"2011-12",
+        "FDI":129.36
+    },
+    {
+        "Sector":"Ports",
+        "Year":"2011-12",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"2011-12",
+        "FDI":42.27
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"2011-12",
+        "FDI":620.66
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"2011-12",
+        "FDI":127.87
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"2011-12",
+        "FDI":2.77
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"2011-12",
+        "FDI":16.4
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"2011-12",
+        "FDI":1295.34
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"2011-12",
+        "FDI":29.04
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"2011-12",
+        "FDI":141.61
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"2011-12",
+        "FDI":3.99
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"2011-12",
+        "FDI":7.08
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"2011-12",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"2011-12",
+        "FDI":32.6
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"2011-12",
+        "FDI":4040.71
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"2011-12",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"2011-12",
+        "FDI":0.58
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"2011-12",
+        "FDI":3232.28
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"2011-12",
+        "FDI":164.19
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"2011-12",
+        "FDI":407.35
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"2011-12",
+        "FDI":4.44
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"2011-12",
+        "FDI":69.7
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"2011-12",
+        "FDI":170.21
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"2011-12",
+        "FDI":65.02
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"2011-12",
+        "FDI":222.08
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"2011-12",
+        "FDI":187.37
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"2011-12",
+        "FDI":8.3
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"2011-12",
+        "FDI":5.84
+    },
+    {
+        "Sector":"Glass",
+        "Year":"2011-12",
+        "FDI":32.22
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"2011-12",
+        "FDI":9.87
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"2011-12",
+        "FDI":267.9
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"2011-12",
+        "FDI":29.6
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"2011-12",
+        "FDI":3.66
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"2011-12",
+        "FDI":289.89
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"2011-12",
+        "FDI":5215.98
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"2011-12",
+        "FDI":310.43
+    },
+    {
+        "Sector":"Education",
+        "Year":"2011-12",
+        "FDI":105.62
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"2011-12",
+        "FDI":992.86
+    },
+    {
+        "Sector":"Trading",
+        "Year":"2011-12",
+        "FDI":731.55
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"2011-12",
+        "FDI":31.7
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"2011-12",
+        "FDI":49.02
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"2011-12",
+        "FDI":36.3
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"2011-12",
+        "FDI":5.32
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"2011-12",
+        "FDI":47.39
+    },
+    {
+        "Sector":"Coir",
+        "Year":"2011-12",
+        "FDI":0.55
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"2011-12",
+        "FDI":386.28
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"2011-12",
+        "FDI":3140.78
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"2011-12",
+        "FDI":813.38
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"2011-12",
+        "FDI":35120.8
+    },
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"2012-13",
+        "FDI":1466.23
+    },
+    {
+        "Sector":"Mining",
+        "Year":"2012-13",
+        "FDI":57.89
+    },
+    {
+        "Sector":"Power",
+        "Year":"2012-13",
+        "FDI":535.68
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"2012-13",
+        "FDI":1106.52
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"2012-13",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"2012-13",
+        "FDI":214.8
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"2012-13",
+        "FDI":20.05
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"2012-13",
+        "FDI":184.6
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"2012-13",
+        "FDI":195.87
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"2012-13",
+        "FDI":485.96
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"2012-13",
+        "FDI":38.24
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"2012-13",
+        "FDI":303.87
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"2012-13",
+        "FDI":404.04
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"2012-13",
+        "FDI":1537.28
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"2012-13",
+        "FDI":15.89
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"2012-13",
+        "FDI":64.62
+    },
+    {
+        "Sector":"Ports",
+        "Year":"2012-13",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"2012-13",
+        "FDI":29.85
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"2012-13",
+        "FDI":503.83
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"2012-13",
+        "FDI":101.39
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"2012-13",
+        "FDI":95.41
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"2012-13",
+        "FDI":5.1
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"2012-13",
+        "FDI":89.45
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"2012-13",
+        "FDI":24.33
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"2012-13",
+        "FDI":83.02
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"2012-13",
+        "FDI":0.58
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"2012-13",
+        "FDI":73.28
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"2012-13",
+        "FDI":6.71
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"2012-13",
+        "FDI":42.55
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"2012-13",
+        "FDI":292.16
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"2012-13",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"2012-13",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"2012-13",
+        "FDI":1123.46
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"2012-13",
+        "FDI":103.89
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"2012-13",
+        "FDI":5.09
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"2012-13",
+        "FDI":12.26
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"2012-13",
+        "FDI":107.21
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"2012-13",
+        "FDI":401.46
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"2012-13",
+        "FDI":108.39
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"2012-13",
+        "FDI":160.07
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"2012-13",
+        "FDI":642.18
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"2012-13",
+        "FDI":46.7
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"2012-13",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Glass",
+        "Year":"2012-13",
+        "FDI":209.16
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"2012-13",
+        "FDI":4.33
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"2012-13",
+        "FDI":12.38
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"2012-13",
+        "FDI":29.17
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"2012-13",
+        "FDI":0.41
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"2012-13",
+        "FDI":142.32
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"2012-13",
+        "FDI":4832.98
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"2012-13",
+        "FDI":256.86
+    },
+    {
+        "Sector":"Education",
+        "Year":"2012-13",
+        "FDI":172.2
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"2012-13",
+        "FDI":3259.05
+    },
+    {
+        "Sector":"Trading",
+        "Year":"2012-13",
+        "FDI":717.8
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"2012-13",
+        "FDI":22.31
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"2012-13",
+        "FDI":161.47
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"2012-13",
+        "FDI":52.61
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"2012-13",
+        "FDI":0.27
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"2012-13",
+        "FDI":14.34
+    },
+    {
+        "Sector":"Coir",
+        "Year":"2012-13",
+        "FDI":0.15
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"2012-13",
+        "FDI":283.89
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"2012-13",
+        "FDI":1332.49
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"2012-13",
+        "FDI":229.49
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"2012-13",
+        "FDI":22423.58
+    },
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"2013-14",
+        "FDI":567.63
+    },
+    {
+        "Sector":"Mining",
+        "Year":"2013-14",
+        "FDI":12.73
+    },
+    {
+        "Sector":"Power",
+        "Year":"2013-14",
+        "FDI":1066.08
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"2013-14",
+        "FDI":414.25
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"2013-14",
+        "FDI":2.96
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"2013-14",
+        "FDI":112.23
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"2013-14",
+        "FDI":0.17
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"2013-14",
+        "FDI":212.78
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"2013-14",
+        "FDI":134.31
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"2013-14",
+        "FDI":1126.27
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"2013-14",
+        "FDI":132.58
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"2013-14",
+        "FDI":1306.95
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"2013-14",
+        "FDI":428.52
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"2013-14",
+        "FDI":1517.28
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"2013-14",
+        "FDI":45.95
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"2013-14",
+        "FDI":20.49
+    },
+    {
+        "Sector":"Ports",
+        "Year":"2013-14",
+        "FDI":0.31
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"2013-14",
+        "FDI":236.93
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"2013-14",
+        "FDI":477.38
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"2013-14",
+        "FDI":64.52
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"2013-14",
+        "FDI":48.78
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"2013-14",
+        "FDI":34.44
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"2013-14",
+        "FDI":288.13
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"2013-14",
+        "FDI":21.13
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"2013-14",
+        "FDI":173.48
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"2013-14",
+        "FDI":0.53
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"2013-14",
+        "FDI":45.08
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"2013-14",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"2013-14",
+        "FDI":20.65
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"2013-14",
+        "FDI":786.76
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"2013-14",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"2013-14",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"2013-14",
+        "FDI":1279.34
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"2013-14",
+        "FDI":198.86
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"2013-14",
+        "FDI":26.86
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"2013-14",
+        "FDI":3.08
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"2013-14",
+        "FDI":814.58
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"2013-14",
+        "FDI":3982.89
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"2013-14",
+        "FDI":21.55
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"2013-14",
+        "FDI":108.44
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"2013-14",
+        "FDI":370.54
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"2013-14",
+        "FDI":6.14
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"2013-14",
+        "FDI":0.97
+    },
+    {
+        "Sector":"Glass",
+        "Year":"2013-14",
+        "FDI":43.09
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"2013-14",
+        "FDI":150.09
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"2013-14",
+        "FDI":254.01
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"2013-14",
+        "FDI":6.16
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"2013-14",
+        "FDI":0.82
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"2013-14",
+        "FDI":285.85
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"2013-14",
+        "FDI":2225.1
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"2013-14",
+        "FDI":684.58
+    },
+    {
+        "Sector":"Education",
+        "Year":"2013-14",
+        "FDI":262.09
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"2013-14",
+        "FDI":486.38
+    },
+    {
+        "Sector":"Trading",
+        "Year":"2013-14",
+        "FDI":1343.39
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"2013-14",
+        "FDI":11.3
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"2013-14",
+        "FDI":91.01
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"2013-14",
+        "FDI":42.56
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"2013-14",
+        "FDI":5.86
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"2013-14",
+        "FDI":113.78
+    },
+    {
+        "Sector":"Coir",
+        "Year":"2013-14",
+        "FDI":0.54
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"2013-14",
+        "FDI":485.37
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"2013-14",
+        "FDI":1226.05
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"2013-14",
+        "FDI":468.74
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"2013-14",
+        "FDI":24299.33
+    },
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"2014-15",
+        "FDI":359.34
+    },
+    {
+        "Sector":"Mining",
+        "Year":"2014-15",
+        "FDI":684.39
+    },
+    {
+        "Sector":"Power",
+        "Year":"2014-15",
+        "FDI":707.04
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"2014-15",
+        "FDI":615.95
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"2014-15",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"2014-15",
+        "FDI":1079.02
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"2014-15",
+        "FDI":1.33
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"2014-15",
+        "FDI":230.7
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"2014-15",
+        "FDI":574.83
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"2014-15",
+        "FDI":2296.04
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"2014-15",
+        "FDI":96.84
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"2014-15",
+        "FDI":2894.94
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"2014-15",
+        "FDI":254.96
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"2014-15",
+        "FDI":2725.64
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"2014-15",
+        "FDI":74.56
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"2014-15",
+        "FDI":333.22
+    },
+    {
+        "Sector":"Ports",
+        "Year":"2014-15",
+        "FDI":1.9
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"2014-15",
+        "FDI":129.73
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"2014-15",
+        "FDI":716.79
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"2014-15",
+        "FDI":24.06
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"2014-15",
+        "FDI":72.35
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"2014-15",
+        "FDI":30.11
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"2014-15",
+        "FDI":186.69
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"2014-15",
+        "FDI":33.39
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"2014-15",
+        "FDI":145.93
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"2014-15",
+        "FDI":0.85
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"2014-15",
+        "FDI":32.34
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"2014-15",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"2014-15",
+        "FDI":225.32
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"2014-15",
+        "FDI":762.76
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"2014-15",
+        "FDI":0.75
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"2014-15",
+        "FDI":54.89
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"2014-15",
+        "FDI":1497.74
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"2014-15",
+        "FDI":197.42
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"2014-15",
+        "FDI":116.21
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"2014-15",
+        "FDI":27.77
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"2014-15",
+        "FDI":225.38
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"2014-15",
+        "FDI":515.86
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"2014-15",
+        "FDI":148.34
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"2014-15",
+        "FDI":177.22
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"2014-15",
+        "FDI":284.51
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"2014-15",
+        "FDI":34.21
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"2014-15",
+        "FDI":21.44
+    },
+    {
+        "Sector":"Glass",
+        "Year":"2014-15",
+        "FDI":41.82
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"2014-15",
+        "FDI":35.29
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"2014-15",
+        "FDI":208.99
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"2014-15",
+        "FDI":8.97
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"2014-15",
+        "FDI":0.08
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"2014-15",
+        "FDI":458.13
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"2014-15",
+        "FDI":4443.26
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"2014-15",
+        "FDI":567.85
+    },
+    {
+        "Sector":"Education",
+        "Year":"2014-15",
+        "FDI":78.86
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"2014-15",
+        "FDI":777.01
+    },
+    {
+        "Sector":"Trading",
+        "Year":"2014-15",
+        "FDI":2727.96
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"2014-15",
+        "FDI":168.72
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"2014-15",
+        "FDI":59.95
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"2014-15",
+        "FDI":280.18
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"2014-15",
+        "FDI":1.43
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"2014-15",
+        "FDI":72.58
+    },
+    {
+        "Sector":"Coir",
+        "Year":"2014-15",
+        "FDI":1.36
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"2014-15",
+        "FDI":870.25
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"2014-15",
+        "FDI":769.14
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"2014-15",
+        "FDI":765.88
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"2014-15",
+        "FDI":30930.5
+    },
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"2015-16",
+        "FDI":456.31
+    },
+    {
+        "Sector":"Mining",
+        "Year":"2015-16",
+        "FDI":520.67
+    },
+    {
+        "Sector":"Power",
+        "Year":"2015-16",
+        "FDI":868.8
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"2015-16",
+        "FDI":776.51
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"2015-16",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"2015-16",
+        "FDI":103.02
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"2015-16",
+        "FDI":77.91
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"2015-16",
+        "FDI":159.13
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"2015-16",
+        "FDI":444.88
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"2015-16",
+        "FDI":5904.36
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"2015-16",
+        "FDI":208.39
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"2015-16",
+        "FDI":1324.4
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"2015-16",
+        "FDI":1009.34
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"2015-16",
+        "FDI":2526.82
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"2015-16",
+        "FDI":361.25
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"2015-16",
+        "FDI":429.3
+    },
+    {
+        "Sector":"Ports",
+        "Year":"2015-16",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"2015-16",
+        "FDI":73.99
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"2015-16",
+        "FDI":568.26
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"2015-16",
+        "FDI":126.38
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"2015-16",
+        "FDI":16.44
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"2015-16",
+        "FDI":97.66
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"2015-16",
+        "FDI":274.57
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"2015-16",
+        "FDI":36.68
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"2015-16",
+        "FDI":173.26
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"2015-16",
+        "FDI":7.42
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"2015-16",
+        "FDI":6.36
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"2015-16",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"2015-16",
+        "FDI":20.93
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"2015-16",
+        "FDI":1469.95
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"2015-16",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"2015-16",
+        "FDI":3.32
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"2015-16",
+        "FDI":754.26
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"2015-16",
+        "FDI":230.13
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"2015-16",
+        "FDI":85.21
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"2015-16",
+        "FDI":105.85
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"2015-16",
+        "FDI":202.36
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"2015-16",
+        "FDI":505.88
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"2015-16",
+        "FDI":34.22
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"2015-16",
+        "FDI":193.26
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"2015-16",
+        "FDI":296.15
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"2015-16",
+        "FDI":17.13
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"2015-16",
+        "FDI":0.82
+    },
+    {
+        "Sector":"Glass",
+        "Year":"2015-16",
+        "FDI":25.78
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"2015-16",
+        "FDI":51.21
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"2015-16",
+        "FDI":19.69
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"2015-16",
+        "FDI":53.17
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"2015-16",
+        "FDI":0.1
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"2015-16",
+        "FDI":517.47
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"2015-16",
+        "FDI":6889.46
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"2015-16",
+        "FDI":742.35
+    },
+    {
+        "Sector":"Education",
+        "Year":"2015-16",
+        "FDI":230.78
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"2015-16",
+        "FDI":1332.69
+    },
+    {
+        "Sector":"Trading",
+        "Year":"2015-16",
+        "FDI":3845.32
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"2015-16",
+        "FDI":262.24
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"2015-16",
+        "FDI":84.65
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"2015-16",
+        "FDI":58.54
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"2015-16",
+        "FDI":1.12
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"2015-16",
+        "FDI":122.81
+    },
+    {
+        "Sector":"Coir",
+        "Year":"2015-16",
+        "FDI":0.0
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"2015-16",
+        "FDI":4510.71
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"2015-16",
+        "FDI":112.55
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"2015-16",
+        "FDI":668.77
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"2015-16",
+        "FDI":40000.98
+    },
+    {
+        "Sector":"Metallurgical Industries",
+        "Year":"Total",
+        "FDI":8890.34
+    },
+    {
+        "Sector":"Mining",
+        "Year":"Total",
+        "FDI":2216.09
+    },
+    {
+        "Sector":"Power",
+        "Year":"Total",
+        "FDI":10476.15
+    },
+    {
+        "Sector":"Non-conventional Energy",
+        "Year":"Total",
+        "FDI":4397.94
+    },
+    {
+        "Sector":"Coal Production",
+        "Year":"Total",
+        "FDI":27.73
+    },
+    {
+        "Sector":"Petroleum & Natural Gas",
+        "Year":"Total",
+        "FDI":6675.76
+    },
+    {
+        "Sector":"Boilers and Steam Generating Plants",
+        "Year":"Total",
+        "FDI":141.24
+    },
+    {
+        "Sector":"Prime Mover (other than Electrical Generators)",
+        "Year":"Total",
+        "FDI":1451.29
+    },
+    {
+        "Sector":"Electrical Equipments",
+        "Year":"Total",
+        "FDI":4336.72
+    },
+    {
+        "Sector":"Computer Software & Hardware",
+        "Year":"Total",
+        "FDI":21017.77
+    },
+    {
+        "Sector":"Electronics",
+        "Year":"Total",
+        "FDI":1636.03
+    },
+    {
+        "Sector":"Telecommunications",
+        "Year":"Total",
+        "FDI":18382.35
+    },
+    {
+        "Sector":"Information & Broadcasting (including Print Media)",
+        "Year":"Total",
+        "FDI":4977.02
+    },
+    {
+        "Sector":"Automobile Industry",
+        "Year":"Total",
+        "FDI":15064.59
+    },
+    {
+        "Sector":"Air Transport (including Air Freight)",
+        "Year":"Total",
+        "FDI":931.05
+    },
+    {
+        "Sector":"Sea Transport",
+        "Year":"Total",
+        "FDI":1977.5
+    },
+    {
+        "Sector":"Ports",
+        "Year":"Total",
+        "FDI":1637.3
+    },
+    {
+        "Sector":"Railway Related Components",
+        "Year":"Total",
+        "FDI":710.98
+    },
+    {
+        "Sector":"Industrial Machinery",
+        "Year":"Total",
+        "FDI":4064.57
+    },
+    {
+        "Sector":"Machine Tools",
+        "Year":"Total",
+        "FDI":837.96
+    },
+    {
+        "Sector":"Agricultural Machinery",
+        "Year":"Total",
+        "FDI":433.99
+    },
+    {
+        "Sector":"Earth-moving Machinery",
+        "Year":"Total",
+        "FDI":337.16
+    },
+    {
+        "Sector":"Miscellaneous Mechanical & Engineering Industries",
+        "Year":"Total",
+        "FDI":3068.1
+    },
+    {
+        "Sector":"Commercial; Office & Household Equipments",
+        "Year":"Total",
+        "FDI":346.03
+    },
+    {
+        "Sector":"Medical And Surgical Appliances",
+        "Year":"Total",
+        "FDI":1097.13
+    },
+    {
+        "Sector":"Industrial Instruments",
+        "Year":"Total",
+        "FDI":75.34
+    },
+    {
+        "Sector":"Scientific Instruments",
+        "Year":"Total",
+        "FDI":178.27
+    },
+    {
+        "Sector":"Mathematical; surveying and Drawing Instruments",
+        "Year":"Total",
+        "FDI":7.98
+    },
+    {
+        "Sector":"Fertilizers",
+        "Year":"Total",
+        "FDI":564.8
+    },
+    {
+        "Sector":"Chemicals (other Than Fertilizers)",
+        "Year":"Total",
+        "FDI":11900.29
+    },
+    {
+        "Sector":"Photographic Raw Film And Paper",
+        "Year":"Total",
+        "FDI":67.29
+    },
+    {
+        "Sector":"Dye-stuffs",
+        "Year":"Total",
+        "FDI":77.71
+    },
+    {
+        "Sector":"Drugs & Pharmaceuticals",
+        "Year":"Total",
+        "FDI":13849.5
+    },
+    {
+        "Sector":"Textiles (including Dyed; printed)",
+        "Year":"Total",
+        "FDI":1852.47
+    },
+    {
+        "Sector":"Paper And Pulp (including Paper Products)",
+        "Year":"Total",
+        "FDI":1093.82
+    },
+    {
+        "Sector":"Sugar",
+        "Year":"Total",
+        "FDI":188.51
+    },
+    {
+        "Sector":"Fermentation Industries",
+        "Year":"Total",
+        "FDI":2376.96
+    },
+    {
+        "Sector":"Food Processing Industries",
+        "Year":"Total",
+        "FDI":6815.69
+    },
+    {
+        "Sector":"Vegetable Oils and Vanaspati",
+        "Year":"Total",
+        "FDI":589.06
+    },
+    {
+        "Sector":"Soaps; Cosmetics & Toilet Preparations",
+        "Year":"Total",
+        "FDI":1111.32
+    },
+    {
+        "Sector":"Rubber Goods",
+        "Year":"Total",
+        "FDI":2084.26
+    },
+    {
+        "Sector":"Leather; leather Goods And Pickers",
+        "Year":"Total",
+        "FDI":164.91
+    },
+    {
+        "Sector":"Glue And Gelatin",
+        "Year":"Total",
+        "FDI":37.78
+    },
+    {
+        "Sector":"Glass",
+        "Year":"Total",
+        "FDI":499.77
+    },
+    {
+        "Sector":"Ceramics",
+        "Year":"Total",
+        "FDI":744.72
+    },
+    {
+        "Sector":"Cement And Gypsum Products",
+        "Year":"Total",
+        "FDI":3109.11
+    },
+    {
+        "Sector":"Timber Products",
+        "Year":"Total",
+        "FDI":147.46
+    },
+    {
+        "Sector":"Defence Industries",
+        "Year":"Total",
+        "FDI":5.12
+    },
+    {
+        "Sector":"Consultancy Services",
+        "Year":"Total",
+        "FDI":3356.58
+    },
+    {
+        "Sector":"Services Sector (finance; banking; insurance; non Finance\/business; outsourcing; R&D; Courier; Tech. Testing and Analysis; Other)",
+        "Year":"Total",
+        "FDI":50792.42
+    },
+    {
+        "Sector":"Hospital & Diagnostic Centres",
+        "Year":"Total",
+        "FDI":3592.11
+    },
+    {
+        "Sector":"Education",
+        "Year":"Total",
+        "FDI":1256.08
+    },
+    {
+        "Sector":"Hotel & Tourism",
+        "Year":"Total",
+        "FDI":9227.33
+    },
+    {
+        "Sector":"Trading",
+        "Year":"Total",
+        "FDI":11872.47
+    },
+    {
+        "Sector":"Retail Trading",
+        "Year":"Total",
+        "FDI":537.61
+    },
+    {
+        "Sector":"Agriculture Services",
+        "Year":"Total",
+        "FDI":1844.31
+    },
+    {
+        "Sector":"Diamond; gold Ornaments",
+        "Year":"Total",
+        "FDI":772.05
+    },
+    {
+        "Sector":"Tea And Coffee (processing & Warehousing Coffee & Rubber)",
+        "Year":"Total",
+        "FDI":109.62
+    },
+    {
+        "Sector":"Printing of Books (including Litho Printing Industry)",
+        "Year":"Total",
+        "FDI":581.49
+    },
+    {
+        "Sector":"Coir",
+        "Year":"Total",
+        "FDI":4.07
+    },
+    {
+        "Sector":"Construction (infrastructure) Activities",
+        "Year":"Total",
+        "FDI":7956.75
+    },
+    {
+        "Sector":"Construction Development: Townships; Housing; Built-up Infrastructure And Construction-development Projects",
+        "Year":"Total",
+        "FDI":24187.94
+    },
+    {
+        "Sector":"Miscellaneous Industries",
+        "Year":"Total",
+        "FDI":9747.04
+    },
+    {
+        "Sector":"Grand Total",
+        "Year":"Total",
+        "FDI":288512.78
+    }
+]
