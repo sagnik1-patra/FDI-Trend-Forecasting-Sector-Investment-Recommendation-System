@@ -1,4 +1,4 @@
-# 📊 FDI Trend Forecasting & Sector Investment Recommendation System (HSA).
+# 📊 FDI Trend Forecasting & Sector Investment Recommendation System (HSA)
 
 ## 🚀 Project Overview
 
